@@ -1,1 +1,2 @@
-add_lunch_combo full_j23g-userdebug
+add_lunch_combo omni_j23g-eng
+add_lunch_combo omni_j23g-userdebug
