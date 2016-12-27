@@ -5,7 +5,7 @@ PRODUCT_RELEASE_NAME := j23g
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/samsung/j23g/device_j23g.mk)
+$(call inherit-product, device/samsung/j23g/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := j23g
